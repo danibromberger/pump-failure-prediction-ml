@@ -1,4 +1,4 @@
-# Pump Failure Prediction Project
+# Water Pump Failure Prediction Project
 
 This is the codebase for the paper titled *"INTERPRETABLE MACHINE LEARNING IN INDUSTRIAL WATER PUMP FAILURE PREDICTION: THE ROLE OF SHAPLEY ADDITIVE EXPLANATIONS VALUES AND DATA SAMPLING TECHNIQUES"*, submitted for publication.
 
