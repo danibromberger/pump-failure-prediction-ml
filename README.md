@@ -1,6 +1,6 @@
 # Pump Failure Prediction Project
 
-This is the codebase for the paper titled *"Machine Learning-Based Early Detection of Pump Failures Using Sensor Data"*, submitted for publication.
+This is the codebase for the paper titled *"INTERPRETABLE MACHINE LEARNING IN INDUSTRIAL WATER PUMP FAILURE PREDICTION: THE ROLE OF SHAPLEY ADDITIVE EXPLANATIONS VALUES AND DATA SAMPLING TECHNIQUES"*, submitted for publication.
 
 ## 📁 Repository Structure
 
