@@ -39,7 +39,7 @@ RANDOMSTATE = 101
 
 
 # Importing the dataset
-data = pd.read_csv('sensor.csv')  # Make sure the file is in the same working directory
+data = pd.read_csv('sensor.csv')  # Make sure the file is in the same working directory. Dataset download link: https://www.kaggle.com/datasets/nphantawee/pump-sensor-data
 sensor_data = data.copy()
 sensor_data.head()
 
