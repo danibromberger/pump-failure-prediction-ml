@@ -4,7 +4,7 @@ This is the codebase for the paper titled *"Machine Learning-Based Early Detecti
 
 ## 📁 Repository Structure
 
-- `/data/`: Dataset used in the experiments (`sensor.csv`) Link for dataset download: https://www.kaggle.com/datasets/nphantawee/pump-sensor-data
+- `/data/`: Dataset used in the experiments (`sensor.csv`) Dataset download link: https://www.kaggle.com/datasets/nphantawee/pump-sensor-data
 - `/scripts/`: All Python scripts used in preprocessing, modeling, and evaluation
   - `preprocessing.py`: Data cleaning, encoding, and balancing
   - `pca_analysis.py`: Dimensionality reduction using Principal Component Analysis
