@@ -17,8 +17,3 @@ To run the code, you'll need:
 
 - Python 3.x
 - Libraries: pandas, numpy, scikit-learn, imbalanced-learn, matplotlib, seaborn, shap
-
-You can install them via pip:
-
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn shap imbalanced-learn
