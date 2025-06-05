@@ -1,1 +1,24 @@
-# pump-failure-prediction-ml
+# Pump Failure Prediction Project
+
+This is the codebase for the paper titled *"Machine Learning-Based Early Detection of Pump Failures Using Sensor Data"*, submitted for publication.
+
+## 📁 Repository Structure
+
+- `/data/`: Dataset used in the experiments (`sensor.csv`) Link for dataset download: https://www.kaggle.com/datasets/nphantawee/pump-sensor-data
+- `/scripts/`: All Python scripts used in preprocessing, modeling, and evaluation
+  - `preprocessing.py`: Data cleaning, encoding, and balancing
+  - `pca_analysis.py`: Dimensionality reduction using Principal Component Analysis
+  - `model_training.py`: Model training with Random Forest and hyperparameter tuning
+  - `shap_analysis.py`: Interpretability using SHAP values
+
+## ⚙️ Requirements
+
+To run the code, you'll need:
+
+- Python 3.x
+- Libraries: pandas, numpy, scikit-learn, imbalanced-learn, matplotlib, seaborn, shap
+
+You can install them via pip:
+
+```bash
+pip install pandas numpy scikit-learn matplotlib seaborn shap imbalanced-learn
